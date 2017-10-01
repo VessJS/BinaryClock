@@ -1,0 +1,32 @@
+canvas {
+    border-radius: 10px;
+    object-position: 10px;
+    width: 170px;
+    height: 190px;
+    background-color: darkgrey;
+
+}
+#czas{
+
+    right: 40%;
+    width: 60px;
+    height: auto;
+    background-color: #005ab3;
+    margin: 0 auto;
+
+
+
+}
+body {
+    text-align: center;
+    background: grey;
+    display: flex;
+    height: 100vh;
+
+}
+.container{
+    margin: 20px; padding: 0;
+}
+
+
+
