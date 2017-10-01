@@ -14,14 +14,15 @@ canvas {
     background-color: #005ab3;
     margin: 0 auto;
 
-
-
 }
 body {
     text-align: center;
     background: grey;
     display: flex;
     height: 100vh;
+.blend-gradient
+    background: -webkit-linear-gradient(82deg, rgb(71, 122, 146), rgb(51, 93, 160));
+    background: linear-gradient(82deg, rgb(71, 122, 146), rgb(51, 93, 160));
 
 }
 .container{
